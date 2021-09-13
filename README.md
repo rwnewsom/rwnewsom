@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rwnewsom
-- 👀 I’m interested in opportunities to improve my code
-- 🌱 I’m always improving my core coding skills: C#/.NET, SQL, HTML, CSS, JavaScript
+- 👀 I’m interested in opportunities to improve my skills
+- 🌱 I’m always improving my core Python, SQL, and JavaScript
 - I am also interested in learning other languages and computer science concepts
-- 💞️ I will be available for projects after mid-August 2021
+- 💞️ Not currently available for projects.
 - 📫 You can reach me at ...
 
 <!---
