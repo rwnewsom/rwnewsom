@@ -8,8 +8,8 @@ I'm continuing to build my technical depth through a CS post-bacc at Oregon Stat
 
 ### What I'm working with
 - **Primary**: Python, JavaScript/TypeScript, Node, SQL, MongoDB
-- **Also comfortable with**: React, C#, Flask, PostgreSQL, Cloud platforms (AWS/Azure/GCP), MLOps
-- **Currently exploring / improving**: Observability (o11y + OpenTelemetry), Docker, GitHub Actions / CI-CD, Cypress
+- **Also comfortable with**: React, C#, Flask, PostgreSQL, AWS, MLOps
+- **Currently exploring / improving**: Other Cloud Platforms (Azure/GCP), Observability (o11y + OpenTelemetry), Docker, GitHub Actions / CI-CD, Cypress
 
 ### Selected projects
 - [web-scraper] — coming soon
