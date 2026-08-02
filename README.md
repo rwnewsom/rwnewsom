@@ -12,9 +12,9 @@ I'm continuing to build my technical depth through a CS post-bacc at Oregon Stat
 - **Currently exploring / improving**: Other Cloud Platforms (Azure/GCP), Observability (o11y + OpenTelemetry), Docker, GitHub Actions / CI-CD, Cypress
 
 ### Selected projects
-- [web-scraper] — coming soon
+- [gloaming_scraper](https://github.com/rwnewsom/gloaming_scraper) — Python scraper built for research on privacy-conscious scraping design: TOR-routed requests, config-driven target selectors, robots.txt-permitted (dev-mode only, capped scope)
 - [csv_linter](https://github.com/rwnewsom/csv_linter) — Python CLI tool + packaging + GitHub Actions practice
-- [rwnewsom.github.io](https://rwnewsom.github.io) — Personal site built with Jekyll + GitHub Actions
+- [rwnewsom.github.io](https://rwnewsom.github.io/) — Personal site built with Jekyll + GitHub Actions
 
 ### Elsewhere
 - 🌐 [rwnewsom.github.io](https://rwnewsom.github.io)
